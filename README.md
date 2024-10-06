@@ -8,7 +8,6 @@ Link : https://jparikh4.atlassian.net/jira/software/projects/W5/boards/19
 
 The CRC cards we created are as follows:
 
-
 ![Screenshot 2024-10-05 at 10 49 36 PM](https://github.com/user-attachments/assets/e491664a-3eb0-4bdf-9796-f4c259d5aaf4)
 
 
