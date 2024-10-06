@@ -1,6 +1,6 @@
-The Agile board we created for the user stories is attached below.
+The Kanban board we created for the user stories is attached below.
 
-Link : https://jparikh4.atlassian.net/jira/software/projects/W5/boards/19
+Kanban Board Link : https://jparikh4.atlassian.net/jira/software/projects/W5/boards/19
 
 
 <img width="1512" alt="Screenshot 2024-10-05 at 10 48 34 PM" src="https://github.com/user-attachments/assets/3f2219aa-5409-495b-8c82-0b648940e9b7">
