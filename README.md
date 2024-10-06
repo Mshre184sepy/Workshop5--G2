@@ -11,9 +11,7 @@ The CRC cards we created are as follows:
 ![Screenshot 2024-10-05 at 10 49 36 PM](https://github.com/user-attachments/assets/e491664a-3eb0-4bdf-9796-f4c259d5aaf4)
 
 
-
 ![Screenshot 2024-10-05 at 10 49 51 PM](https://github.com/user-attachments/assets/54b6d61f-8b0a-4ded-93ba-0688c655a8d5)
-
 
 
 ![Screenshot 2024-10-05 at 10 50 04 PM](https://github.com/user-attachments/assets/04d61106-77b5-4732-8b16-84591009ac5a)
